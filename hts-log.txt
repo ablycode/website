@@ -1,0 +1,68 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 11 Feb 2025 10:40:01 at https://rekos.agency/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://rekos.agency/ -O1 "C:\My Web Sites\Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:41:12	Error: 	"Method Not Allowed" (405) at link https://rekos.agency/xmlrpc.php (from https://rekos.agency/)
+10:41:12	Error: 	"Not Found" (404) at link https://rekos.agency/images/favicon/apple-touch-icon.png (from https://rekos.agency/)
+10:41:12	Error: 	"Not Found" (404) at link https://rekos.agency/images/favicon/favicon-32x32.png (from https://rekos.agency/)
+10:41:12	Error: 	"Not Found" (404) at link https://rekos.agency/images/favicon/favicon-16x16.png (from https://rekos.agency/)
+10:41:12	Error: 	"Not Found" (404) at link https://rekos.agency/images/favicon/android-chrome-192x192.png (from https://rekos.agency/)
+10:41:12	Error: 	"Not Found" (404) at link https://rekos.agency/images/favicon/site.webmanifest (from https://rekos.agency/)
+10:41:12	Error: 	"Not Found" (404) at link https://rekos.agency/images/favicon/safari-pinned-tab.svg (from https://rekos.agency/)
+10:41:12	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://rekos.agency/)
+10:42:17	Error: 	"Not Found" (404) at link https://rekos.agency/POST (from https://connect.facebook.net/en_US/fbevents.js)
+10:42:17	Error: 	"Not Found" (404) at link https://rekos.agency/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+10:42:17	Error: 	"Not Found" (404) at link https://rekos.agency/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+10:42:17	Error: 	"Not Found" (404) at link https://rekos.agency/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+10:42:17	Warning: 	Moved Permanently for https://rekos.agency/?p=226896
+10:42:17	Warning: 	File has moved from https://rekos.agency/?p=226896 to https://rekos.agency/about-us/
+10:42:17	Warning: 	Moved Permanently for https://rekos.agency/?p=226893
+10:42:17	Warning: 	File has moved from https://rekos.agency/?p=226893 to https://rekos.agency/services/
+10:42:17	Warning: 	Moved Permanently for https://rekos.agency/?p=226926
+10:42:17	Warning: 	File has moved from https://rekos.agency/?p=226926 to https://rekos.agency/service/ui-ux-design-service/
+10:42:27	Warning: 	Moved Permanently for https://rekos.agency/?p=226935
+10:42:27	Warning: 	File has moved from https://rekos.agency/?p=226935 to https://rekos.agency/service/website-development/
+10:42:41	Warning: 	Moved Permanently for https://rekos.agency/?p=226948
+10:42:41	Warning: 	File has moved from https://rekos.agency/?p=226948 to https://rekos.agency/service/branding/
+10:42:41	Warning: 	Moved Permanently for https://rekos.agency/?p=322
+10:42:41	Warning: 	File has moved from https://rekos.agency/?p=322 to https://rekos.agency/portfolio/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=226884
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=226884 to https://rekos.agency/clients/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=217
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=217 to https://rekos.agency/contacts/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=280
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=280 to https://rekos.agency/privacy-policy/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=166
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=166 to https://rekos.agency/project/invite-app/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=158
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=158 to https://rekos.agency/project/ignitis-group/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=153
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=153 to https://rekos.agency/project/nord-security/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=169
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=169 to https://rekos.agency/project/dotyeti/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=161
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=161 to https://rekos.agency/project/zalia-giria/
+10:42:59	Error: 	"Not Found" (404) at link https://rekos.agency/GET (from https://rekos.agency/wp-content/themes/rekos/js/scripts.js?ver=1.10)
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=151
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=151 to https://rekos.agency/project/breezit/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=156
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=156 to https://rekos.agency/project/ultra-tendency/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=164
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=164 to https://rekos.agency/project/day2day/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=149
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=149 to https://rekos.agency/project/ignitis-renewables/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=146
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=146 to https://rekos.agency/project/sposter/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=227477
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=227477 to https://rekos.agency/project/innet/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=227286
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=227286 to https://rekos.agency/project/nixi1/
+10:42:59	Warning: 	Moved Permanently for https://rekos.agency/?p=227388
+10:42:59	Warning: 	File has moved from https://rekos.agency/?p=227388 to https://rekos.agency/project/swotzy/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 0 seconds : 397 links scanned, 361 files written (38128865 bytes overall) [36251473 bytes received at 201397 bytes/sec], 22048154 bytes transferred using HTTP compression in 172 files, ratio 90%, 11.9 requests per connection
+(13 errors, 44 warnings, 0 messages)
